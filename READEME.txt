@@ -1,0 +1,2 @@
+#My first git respotity
+This is a web plan with mysql+php
